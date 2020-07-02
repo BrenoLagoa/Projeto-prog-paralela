@@ -1,1 +1,3 @@
 # Projeto-prog-paralela
+
+Para a compilação do código será necessario....
